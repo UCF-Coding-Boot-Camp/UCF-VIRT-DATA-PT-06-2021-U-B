@@ -13,3 +13,7 @@ You are going to assume the role of a teacher and create bar and line charts tha
 ### Hint
 
 * When duplicating bar graphs, it pays to get the formatting and look of the chart where you want it for the first graph (e.g. for January), and to then copy that chart and re-select the data for the subsequent copies (keeping the style and format, but just changing the data).
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.

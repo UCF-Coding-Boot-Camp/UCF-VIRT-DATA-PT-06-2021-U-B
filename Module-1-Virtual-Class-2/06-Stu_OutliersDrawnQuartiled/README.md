@@ -31,3 +31,7 @@ In this activity, you will be investigating data from a nutrition paper titled, 
 * Create a box plot of the `Antioxidant_content_in_mmol_100g` for all products.
 
   * **Note**: Be sure to add a title, and label your y-axis.
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.

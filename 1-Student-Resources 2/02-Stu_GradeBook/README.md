@@ -29,3 +29,7 @@ One of the most common uses of Excel in the field of academia is keeping track o
 ## Hints
 
 * In case you need some help with nested `IF()` statements in Excel, [Nest Formulas](https://support.office.com/en-us/article/IF-function-%E2%80%93-nested-formulas-and-avoiding-pitfalls-0b22ff44-f149-44ba-aeb5-4ef99da241c8) is a support article that goes over how to do so.
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.

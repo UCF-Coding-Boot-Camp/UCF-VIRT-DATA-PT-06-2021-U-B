@@ -16,3 +16,7 @@ Pivot tables are exceptionally helpful when dealing with datasets that are large
    2. The sum of the final_score of their songs.
 
 4. Sort your pivot table by descending sum of the final_score.
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.
